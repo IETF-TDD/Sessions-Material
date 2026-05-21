@@ -5,18 +5,19 @@
 
 ## Compact Agenda
 
-| Slot        | Topic                         | Presenters   |
-|:-----------:|:-----------------------------:|:-------------|
-| 2           | Introduction                  | Chairs       |
-| 38          | CBOR                          | Carsten      |
-| 30          | CDDL                          | Michael      |
-| 20          | Q&A                           | All          |
+| Slot        | Topic                         | Presenters         |
+|:-----------:|:-----------------------------:|:-------------------|
+| 2           | Introduction                  | Chairs             |
+| 38          | CBOR                          | Carsten Bormann    |
+| 30          | CDDL                          | Michael Richardson |
+| 20          | Q&A                           | All                |
 
 ## Detailed Agenda
 
-### CBOR (38 min)
+### CBOR
 
 * Presenter: Carsten Bormann
+* Duration: 38 min
 * What?
    - Purpose and use cases
    - Basics of CBOR encoding
@@ -25,9 +26,10 @@
 * Reading material:
    + TBC.
 
-### CDDL (30 min)
+### CDDL
 
 * Presenter: Michael Richardson
+* Duration: 20 min
 * What?
    - Syntax overview
    - Examples
@@ -35,4 +37,6 @@
 * Reading material:
    + TBC.
 
-### Q&A - 20 min
+### Q&A
+
+* Duration: 20 min
